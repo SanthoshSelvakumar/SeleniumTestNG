@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="MyFramework.Listeners"/>
+</listeners>
+  <test name="FirstTest">
+    <classes>
+      <class name="MyFramework.VerifyCart"/>
+    </classes>
+  </test>
+  <test name="SecondTest">
+    <classes>
+      <class name="MyFramework.GetSelectedItemCost"/>
+    </classes>
+  </test>
+</suite>

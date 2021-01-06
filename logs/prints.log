@@ -1,0 +1,45 @@
+14:38:11.125 [main] INFO  MyFramework.GetSelectedItemCost - Price filter applied
+14:38:14.433 [main] INFO  MyFramework.GetSelectedItemCost - Navigated to product page
+14:38:31.181 [main] INFO  MyFramework.GetSelectedItemCost - driver initialized
+14:38:38.626 [main] INFO  MyFramework.GetSelectedItemCost - Navigated to the URL
+14:38:42.567 [main] INFO  MyFramework.GetSelectedItemCost - Search results displayed
+14:38:43.212 [main] INFO  MyFramework.GetSelectedItemCost - Star rating 4 and above selected
+14:38:43.212 [main] INFO  MyFramework.GetSelectedItemCost - Brand Name Selected
+14:38:48.949 [main] INFO  MyFramework.GetSelectedItemCost - Price filter applied
+14:38:51.037 [main] INFO  MyFramework.GetSelectedItemCost - Navigated to product page
+14:38:53.926 [main] INFO  MyFramework.GetSelectedItemCost - Product details displayed
+14:40:21.393 [main] INFO  MyFramework.VerifyCart - driver initialized
+14:40:35.102 [main] INFO  MyFramework.VerifyCart - Navigated to the page
+14:40:43.841 [main] INFO  MyFramework.VerifyCart - Navigated to the cart
+14:40:43.848 [main] INFO  MyFramework.VerifyCart - Cart verified for zero items
+14:40:49.258 [main] INFO  MyFramework.GetSelectedItemCost - driver initialized
+14:41:01.495 [main] INFO  MyFramework.GetSelectedItemCost - Navigated to the URL
+14:41:06.026 [main] INFO  MyFramework.GetSelectedItemCost - Search results displayed
+14:41:06.519 [main] INFO  MyFramework.GetSelectedItemCost - Star rating 4 and above selected
+14:41:06.519 [main] INFO  MyFramework.GetSelectedItemCost - Brand Name Selected
+14:41:11.054 [main] INFO  MyFramework.GetSelectedItemCost - Price filter applied
+14:41:14.557 [main] INFO  MyFramework.GetSelectedItemCost - Navigated to product page
+14:41:30.930 [main] INFO  MyFramework.GetSelectedItemCost - Product details displayed
+14:41:35.321 [main] INFO  MyFramework.GetSelectedItemCost - driver initialized
+14:41:42.527 [main] INFO  MyFramework.GetSelectedItemCost - Navigated to the URL
+14:41:46.180 [main] INFO  MyFramework.GetSelectedItemCost - Search results displayed
+14:41:46.800 [main] INFO  MyFramework.GetSelectedItemCost - Star rating 4 and above selected
+14:41:46.800 [main] INFO  MyFramework.GetSelectedItemCost - Brand Name Selected
+14:41:52.529 [main] INFO  MyFramework.GetSelectedItemCost - Price filter applied
+14:41:54.987 [main] INFO  MyFramework.GetSelectedItemCost - Navigated to product page
+14:41:58.592 [main] INFO  MyFramework.GetSelectedItemCost - Product details displayed
+14:42:02.948 [main] INFO  MyFramework.GetSelectedItemCost - driver initialized
+14:42:10.583 [main] INFO  MyFramework.GetSelectedItemCost - Navigated to the URL
+14:42:14.137 [main] INFO  MyFramework.GetSelectedItemCost - Search results displayed
+14:42:14.561 [main] INFO  MyFramework.GetSelectedItemCost - Star rating 4 and above selected
+14:42:14.562 [main] INFO  MyFramework.GetSelectedItemCost - Brand Name Selected
+14:42:19.561 [main] INFO  MyFramework.GetSelectedItemCost - Price filter applied
+14:42:22.359 [main] INFO  MyFramework.GetSelectedItemCost - Navigated to product page
+14:42:39.199 [main] INFO  MyFramework.GetSelectedItemCost - driver initialized
+14:42:45.786 [main] INFO  MyFramework.GetSelectedItemCost - Navigated to the URL
+14:42:49.849 [main] INFO  MyFramework.GetSelectedItemCost - Search results displayed
+14:42:50.476 [main] INFO  MyFramework.GetSelectedItemCost - Star rating 4 and above selected
+14:42:50.477 [main] INFO  MyFramework.GetSelectedItemCost - Brand Name Selected
+14:42:55.920 [main] INFO  MyFramework.GetSelectedItemCost - Price filter applied
+14:42:58.295 [main] INFO  MyFramework.GetSelectedItemCost - Navigated to product page
+14:43:00.170 [main] INFO  MyFramework.GetSelectedItemCost - Product details displayed
